@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 try {
                     inputEnt = Double.parseDouble(inpAmt.getText().toString());
-                } catch (NumberFormatException e) {
+                } catch (NumberFormatException e) {  //This was done as a troubleshooting technique.  My error was actually caused by the result.settext below.
 
                 }
                 DecimalFormat tenth = new DecimalFormat("#.##");
