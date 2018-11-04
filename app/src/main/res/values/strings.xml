@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quick Currency Conversion</string>
+    <string name="txt_MnyInp">Enter amount / Ingrese la cantidad </string>
+    <string name="txtDisplay"></string>
+    <string name="btnCon">Convert Currency</string>
+    <string name="radUSDtoPeso">US Dollars to Pesos $ -> ₱</string>
+    <string name="radPesotoUSD">Pesos to US Dollars ₱ -> $</string>
+    <string name="txtTitle">ConvertIT!
+    </string>
+</resources>
